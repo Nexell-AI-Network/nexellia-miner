@@ -1,0 +1,12 @@
+/home/romu/nexellia-miner/target/release/deps/rand_core-f7d33dba9dfec988.rmeta: /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/lib.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/block.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/error.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/impls.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/le.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/os.rs
+
+/home/romu/nexellia-miner/target/release/deps/librand_core-f7d33dba9dfec988.rlib: /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/lib.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/block.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/error.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/impls.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/le.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/os.rs
+
+/home/romu/nexellia-miner/target/release/deps/rand_core-f7d33dba9dfec988.d: /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/lib.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/block.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/error.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/impls.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/le.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/os.rs
+
+/home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/lib.rs:
+/home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/block.rs:
+/home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/error.rs:
+/home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/impls.rs:
+/home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/le.rs:
+/home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/os.rs:

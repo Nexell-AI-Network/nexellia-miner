@@ -1,0 +1,34 @@
+cargo:rustc-env=PACKAGE_COMPILE_TIME=2401171559
+cargo:rerun-if-changed=proto
+cargo:rerun-if-changed=src/keccakf1600_x86-64.s
+cargo:rerun-if-changed=proto/rpc.proto
+cargo:rerun-if-changed=proto/p2p.proto
+cargo:rerun-if-changed=proto/messages.proto
+cargo:rerun-if-changed=proto
+Running: "/home/romu/Bureau/protoc-3.20.3-linux-x86_64/bin/protoc" "--include_imports" "--include_source_info" "-o" "/tmp/prost-buildK4N5Hg/prost-descriptor-set" "-I" "proto" "proto/rpc.proto" "proto/p2p.proto" "proto/messages.proto"
+TARGET = Some("x86_64-unknown-linux-gnu")
+OPT_LEVEL = Some("3")
+HOST = Some("x86_64-unknown-linux-gnu")
+CC_x86_64-unknown-linux-gnu = None
+CC_x86_64_unknown_linux_gnu = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-unknown-linux-gnu = None
+CFLAGS_x86_64_unknown_linux_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("false")
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+running: "cc" "-O3" "-ffunction-sections" "-fdata-sections" "-fPIC" "-m64" "-Wall" "-Wextra" "-c" "-o" "/home/romu/Bureau/NXL/nexellia-miner/target/release/build/nexellia-miner-a5b9e4c113a83ad9/out/src/keccakf1600_x86-64.o" "-c" "src/keccakf1600_x86-64.s"
+exit status: 0
+AR_x86_64-unknown-linux-gnu = None
+AR_x86_64_unknown_linux_gnu = None
+HOST_AR = None
+AR = None
+running: ZERO_AR_DATE="1" "ar" "cq" "/home/romu/Bureau/NXL/nexellia-miner/target/release/build/nexellia-miner-a5b9e4c113a83ad9/out/libkeccak.a" "/home/romu/Bureau/NXL/nexellia-miner/target/release/build/nexellia-miner-a5b9e4c113a83ad9/out/src/keccakf1600_x86-64.o"
+exit status: 0
+running: "ar" "s" "/home/romu/Bureau/NXL/nexellia-miner/target/release/build/nexellia-miner-a5b9e4c113a83ad9/out/libkeccak.a"
+exit status: 0
+cargo:rustc-link-lib=static=keccak
+cargo:rustc-link-search=native=/home/romu/Bureau/NXL/nexellia-miner/target/release/build/nexellia-miner-a5b9e4c113a83ad9/out

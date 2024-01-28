@@ -1,0 +1,12 @@
+/home/romu/nexellia-miner/target/release/deps/prost-e8616c78366fa159.rmeta: /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/lib.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/error.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/message.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/types.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/encoding.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/../README.md
+
+/home/romu/nexellia-miner/target/release/deps/libprost-e8616c78366fa159.rlib: /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/lib.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/error.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/message.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/types.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/encoding.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/../README.md
+
+/home/romu/nexellia-miner/target/release/deps/prost-e8616c78366fa159.d: /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/lib.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/error.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/message.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/types.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/encoding.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/../README.md
+
+/home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/lib.rs:
+/home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/error.rs:
+/home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/message.rs:
+/home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/types.rs:
+/home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/encoding.rs:
+/home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-0.11.0/src/../README.md:

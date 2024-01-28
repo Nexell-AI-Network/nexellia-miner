@@ -1,0 +1,12 @@
+/home/romu/Bureau/NXL/nexellia-miner/target/release/deps/libhttparse-241c2ecb2a700339.rmeta: /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.5.1/src/lib.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.5.1/src/iter.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.5.1/src/macros.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.5.1/src/simd/mod.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.5.1/src/simd/sse42.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.5.1/src/simd/avx2.rs
+
+/home/romu/Bureau/NXL/nexellia-miner/target/release/deps/libhttparse-241c2ecb2a700339.rlib: /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.5.1/src/lib.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.5.1/src/iter.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.5.1/src/macros.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.5.1/src/simd/mod.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.5.1/src/simd/sse42.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.5.1/src/simd/avx2.rs
+
+/home/romu/Bureau/NXL/nexellia-miner/target/release/deps/httparse-241c2ecb2a700339.d: /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.5.1/src/lib.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.5.1/src/iter.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.5.1/src/macros.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.5.1/src/simd/mod.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.5.1/src/simd/sse42.rs /home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.5.1/src/simd/avx2.rs
+
+/home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.5.1/src/lib.rs:
+/home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.5.1/src/iter.rs:
+/home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.5.1/src/macros.rs:
+/home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.5.1/src/simd/mod.rs:
+/home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.5.1/src/simd/sse42.rs:
+/home/romu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.5.1/src/simd/avx2.rs:
