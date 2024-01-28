@@ -38,7 +38,7 @@ Here is a guidance on how to run a full node and how to generate addresses: http
 Help:
 ```
 nexellia-miner 
-A Kaspa high performance CPU miner
+A Nexellia high performance CPU miner
 
 USAGE:
     nexellia-miner [OPTIONS] --mining-address <MINING_ADDRESS>
