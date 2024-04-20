@@ -1,6 +1,6 @@
-# Nexellia-miner
+# Nexell-AI Miner
 
-This is a modification of Kaspa Rust Miner for the Nexellia network
+This is a modification of Kaspa Rust Miner for the Nexell-AI network
 please consider donate to the original dev :
 **Elichai**: `kaspa:qzvqtx5gkvl3tc54up6r8pk5mhuft9rtr0lvn624w9mtv4eqm9rvc9zfdmmpu`
 **HauntedCook**: `kaspa:qz4jdyu04hv4hpyy00pl6trzw4gllnhnwy62xattejv2vaj5r0p5quvns058f`
@@ -32,13 +32,13 @@ To remove a plugin, you simply remove the corresponding `dll`/`so` for the direc
 * `libkaspaopencl.so`, `libkaspaopencl.dll`: OpenCL support for nexellia-miner
 
 # Usage
-To start mining, you need to run [nexelliad](https://github.com/nexellia-network/nexelliad) and have an address to send the rewards to.
+To start mining, you need to run [nexelliad](https://github.com/nexell-ai-network/nexelliad) and have an address to send the rewards to.
 Here is a guidance on how to run a full node and how to generate addresses: https://github.com/kaspanet/docs/blob/main/Getting%20Started/Full%20Node%20Installation.md
 
 Help:
 ```
-nexellia-miner 
-A Nexellia high performance CPU miner
+nexell-ai miner 
+A Nexell-AI high performance CPU miner
 
 USAGE:
     nexellia-miner [OPTIONS] --mining-address <MINING_ADDRESS>
